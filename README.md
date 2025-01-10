@@ -18,7 +18,7 @@
 ---
 
 ## 개발 정보
-- **개발 기간:** 2024년 9월 4일 ~ 2024년 8월 3일  
+- **개발 기간:** 2024년 9월 4일 ~ 2024년 10월 13일  
 - **개발 인원:**  
   - Frontend: 1명  
   - Backend: 1명
@@ -36,15 +36,16 @@
 ---
 
 ## 관련 이미지
-![image](https://github.com/user-attachments/assets/d292d1c5-5bbb-4ecb-8ad5-e13a23f6a9f6)
-![image](https://github.com/user-attachments/assets/f4df9504-e374-482d-ab68-94f6af095130)
-![image](https://github.com/user-attachments/assets/ad5d6992-ff73-4597-9f95-00af889389c4)
-![image](https://github.com/user-attachments/assets/e0c6db34-6507-4a52-9166-fdb58c05e342)
-![image](https://github.com/user-attachments/assets/109894ea-b409-450e-8854-fece3fc04dd3)
-![image](https://github.com/user-attachments/assets/ec7a759a-8147-4fa4-887a-b5abbc3f9318)
-![image](https://github.com/user-attachments/assets/fa33bda2-a8f8-4728-9951-1a5c56dd76c7)
-![image](https://github.com/user-attachments/assets/b5c6afb6-3e32-4c3f-ae91-8d4aa85ce8cc)
-![image](https://github.com/user-attachments/assets/c44f5966-3144-45df-9c3e-b76258a038be)
+![image](https://github.com/user-attachments/assets/1b001b70-2cd6-4ecf-9d80-c95362ccd3dc)
+![image](https://github.com/user-attachments/assets/ffb52ae1-5d41-48f6-a9ff-1b1cfffb9569)
+![image](https://github.com/user-attachments/assets/737af090-cfd8-4357-8519-bec4a49a3cd9)
+![image](https://github.com/user-attachments/assets/664ea51a-cbcd-485b-83cd-69cddce4c91f)
+![image](https://github.com/user-attachments/assets/7f7ed705-9b74-42fa-a0d9-5d03f45e815f)
+![image](https://github.com/user-attachments/assets/bc6ba4c4-c4c7-42fe-a4f1-3e341d78048c)
+![image](https://github.com/user-attachments/assets/43d70628-c840-4801-bb7b-68dde039c100)
+![image](https://github.com/user-attachments/assets/4cd88dc4-d7d2-4d17-8b2a-3e5c6fe84e0b)
+![image](https://github.com/user-attachments/assets/c8111dc2-cbcf-43e0-9c1a-81a05ca6f483)
+
 
 ---
 
